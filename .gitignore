@@ -1,3 +1,8 @@
 .~*
 *.csv
 dataset/*
+bin
+lib
+share
+lib64
+pyvenv.cfg
